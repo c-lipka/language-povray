@@ -5,7 +5,7 @@
 'foldingStartMarker': '\\s*\\{\\s*$'
 'foldingStopMarker': '^\\s*\\}'
 'name': 'POV-Ray SDL'
-'scopeName': 'source.povray'
+'scopeName': 'source.pov-ray sdl'
 'patterns': [
   {
     'begin': '"'
