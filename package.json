@@ -1,0 +1,19 @@
+{
+  "name": "language-povray",
+  "main": "./lib/language-povray",
+  "version": "0.1.0",
+  "description": "Provides syntax highlighting for the POV-Ray scene description language.",
+  "keywords": [
+    "grammar",
+    "syntax",
+    "povray",
+    "pov-ray"
+  ],
+  "repository": "https://github.com/c-lipka/language-povray",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
