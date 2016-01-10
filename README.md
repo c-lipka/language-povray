@@ -1,4 +1,4 @@
-# POV-Ray SDL Language
+# POV-Ray Scene Description Language Grammar
 
 Provides syntax highlighting for the POV-Ray scene description language.
 
