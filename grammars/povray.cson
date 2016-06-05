@@ -60,7 +60,7 @@
     'name': 'keyword.modifier.povray'
   }
   {
-    'match': '\\#(declare|debug|else(if)?|end|for|if(n?def)?|include|local|macro|version|while)\\b'
+    'match': '\\#(break|case|declare|debug|else(if)?|end|error|fopen|for|if(n?def)?|include|local|macro|range|read|switch|version|while|write)\\b'
     'name': 'keyword.control.povray'
   }
   {
